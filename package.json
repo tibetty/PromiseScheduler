@@ -1,6 +1,6 @@
 {
   "name": "promise-scheduler",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "PromiseScheduler, a scheduler to run promises in batch mode per the max concurrency set when creating. You can simply submit all your promises at any time as you wish, then all the concurrent behavior will be controlled by it.",
   "main": "promise-scheduler.js",
   "scripts": {
