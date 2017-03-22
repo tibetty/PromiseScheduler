@@ -1,0 +1,25 @@
+{
+  "name": "promise-scheduler",
+  "version": "0.1.1",
+  "description": "PromiseScheduler, a scheduler to run promises in batch mode per the max concurrency set when creating. You can simply submit all your promises at any time as you wish, then all the concurrent behavior will be controlled by it.",
+  "main": "promise-scheduler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tibetty/PromiseScheduler.git"
+  },
+  "keywords": [
+    "promises",
+    "control",
+    "concurrency",
+    "batch"
+  ],
+  "author": "tibetty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tibetty/PromiseScheduler/issues"
+  },
+  "homepage": "https://github.com/tibetty/PromiseScheduler#readme"
+}
